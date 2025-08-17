@@ -188,3 +188,6 @@ function renderPokemon({ name, weight, height, abilities, sprites }) {
 function onFetchError(message) {
     alert(message)
 }
+
+
+// 4 - пагінація 
